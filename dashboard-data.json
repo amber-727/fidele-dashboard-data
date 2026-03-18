@@ -180,6 +180,7 @@
   "averageOrderValue": 70.20,
   "conversionRate": 3.6,
   "activeCustomers": 5240
+}
 },
     "90d": {"revenueTrend": [
   {"date": "2025-12-16", "revenue": 10200},
@@ -251,6 +252,7 @@
   "averageOrderValue": 77.14,
   "conversionRate": 3.5,
   "activeCustomers": 12840
+}
 },
     "12m": {}
   }
