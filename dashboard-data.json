@@ -56,7 +56,131 @@
       }
     },
 
-    "30d": {},
+    "30d": {"revenueTrend": [
+  {"date": "2026-02-15", "revenue": 12100},
+  {"date": "2026-02-16", "revenue": 13420},
+  {"date": "2026-02-17", "revenue": 12890},
+  {"date": "2026-02-18", "revenue": 14210},
+  {"date": "2026-02-19", "revenue": 15540},
+  {"date": "2026-02-20", "revenue": 16820},
+  {"date": "2026-02-21", "revenue": 16110},
+
+  {"date": "2026-02-22", "revenue": 13890},
+  {"date": "2026-02-23", "revenue": 14720},
+  {"date": "2026-02-24", "revenue": 13980},
+  {"date": "2026-02-25", "revenue": 15210},
+  {"date": "2026-02-26", "revenue": 16780},
+  {"date": "2026-02-27", "revenue": 18120},
+  {"date": "2026-02-28", "revenue": 17450},
+
+  {"date": "2026-03-01", "revenue": 14920},
+  {"date": "2026-03-02", "revenue": 15840},
+  {"date": "2026-03-03", "revenue": 15110},
+  {"date": "2026-03-04", "revenue": 16490},
+  {"date": "2026-03-05", "revenue": 17820},
+  {"date": "2026-03-06", "revenue": 19240},
+  {"date": "2026-03-07", "revenue": 18630},
+
+  {"date": "2026-03-08", "revenue": 16210},
+  {"date": "2026-03-09", "revenue": 17190},
+  {"date": "2026-03-10", "revenue": 16540},
+  {"date": "2026-03-11", "revenue": 17980},
+  {"date": "2026-03-12", "revenue": 19410},
+  {"date": "2026-03-13", "revenue": 20860},
+  {"date": "2026-03-14", "revenue": 20120}
+],
+
+"ordersTrend": [
+  {"date": "2026-02-15", "orders": 172},
+  {"date": "2026-02-16", "orders": 186},
+  {"date": "2026-02-17", "orders": 179},
+  {"date": "2026-02-18", "orders": 194},
+  {"date": "2026-02-19", "orders": 211},
+  {"date": "2026-02-20", "orders": 228},
+  {"date": "2026-02-21", "orders": 219},
+
+  {"date": "2026-02-22", "orders": 192},
+  {"date": "2026-02-23", "orders": 201},
+  {"date": "2026-02-24", "orders": 193},
+  {"date": "2026-02-25", "orders": 207},
+  {"date": "2026-02-26", "orders": 226},
+  {"date": "2026-02-27", "orders": 243},
+  {"date": "2026-02-28", "orders": 234},
+
+  {"date": "2026-03-01", "orders": 205},
+  {"date": "2026-03-02", "orders": 214},
+  {"date": "2026-03-03", "orders": 207},
+  {"date": "2026-03-04", "orders": 223},
+  {"date": "2026-03-05", "orders": 241},
+  {"date": "2026-03-06", "orders": 258},
+  {"date": "2026-03-07", "orders": 249},
+
+  {"date": "2026-03-08", "orders": 221},
+  {"date": "2026-03-09", "orders": 232},
+  {"date": "2026-03-10", "orders": 224},
+  {"date": "2026-03-11", "orders": 239},
+  {"date": "2026-03-12", "orders": 257},
+  {"date": "2026-03-13", "orders": 276},
+  {"date": "2026-03-14", "orders": 268}
+],
+
+"conversionRateTrend": [
+  {"date": "2026-02-15", "conversionRate": 3.0},
+  {"date": "2026-02-16", "conversionRate": 3.2},
+  {"date": "2026-02-17", "conversionRate": 3.1},
+  {"date": "2026-02-18", "conversionRate": 3.3},
+  {"date": "2026-02-19", "conversionRate": 3.5},
+  {"date": "2026-02-20", "conversionRate": 3.7},
+  {"date": "2026-02-21", "conversionRate": 3.6},
+
+  {"date": "2026-02-22", "conversionRate": 3.2},
+  {"date": "2026-02-23", "conversionRate": 3.3},
+  {"date": "2026-02-24", "conversionRate": 3.2},
+  {"date": "2026-02-25", "conversionRate": 3.4},
+  {"date": "2026-02-26", "conversionRate": 3.6},
+  {"date": "2026-02-27", "conversionRate": 3.8},
+  {"date": "2026-02-28", "conversionRate": 3.7},
+
+  {"date": "2026-03-01", "conversionRate": 3.3},
+  {"date": "2026-03-02", "conversionRate": 3.4},
+  {"date": "2026-03-03", "conversionRate": 3.3},
+  {"date": "2026-03-04", "conversionRate": 3.5},
+  {"date": "2026-03-05", "conversionRate": 3.7},
+  {"date": "2026-03-06", "conversionRate": 3.9},
+  {"date": "2026-03-07", "conversionRate": 3.8},
+
+  {"date": "2026-03-08", "conversionRate": 3.5},
+  {"date": "2026-03-09", "conversionRate": 3.6},
+  {"date": "2026-03-10", "conversionRate": 3.5},
+  {"date": "2026-03-11", "conversionRate": 3.7},
+  {"date": "2026-03-12", "conversionRate": 3.9},
+  {"date": "2026-03-13", "conversionRate": 4.1},
+  {"date": "2026-03-14", "conversionRate": 4.0}
+],
+
+"trafficSources": [
+  {"source": "Organic Search", "visits": 18420, "revenue": 152000},
+  {"source": "Paid Search", "visits": 13980, "revenue": 121500},
+  {"source": "Social", "visits": 11840, "revenue": 103200},
+  {"source": "Email", "visits": 6420, "revenue": 72400},
+  {"source": "Direct", "visits": 9720, "revenue": 91800}
+],
+
+"topProducts": [
+  {"product": "Canvas Weekender Bag", "units": 1240, "revenue": 186000},
+  {"product": "Minimal Leather Wallet", "units": 1580, "revenue": 142000},
+  {"product": "Classic White Tee", "units": 2140, "revenue": 128400},
+  {"product": "Linen Summer Shirt", "units": 980, "revenue": 117600},
+  {"product": "Travel Organizer Pouch", "units": 1320, "revenue": 92400}
+],
+
+"kpis": {
+  "totalRevenue": 468320,
+  "totalOrders": 6672,
+  "averageOrderValue": 70.20,
+  "conversionRate": 3.6,
+  "activeCustomers": 5240
+},
     "90d": {},
     "12m": {}
   }
