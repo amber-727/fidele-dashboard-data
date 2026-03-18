@@ -181,7 +181,77 @@
   "conversionRate": 3.6,
   "activeCustomers": 5240
 },
-    "90d": {},
+    "90d": {"revenueTrend": [
+  {"date": "2025-12-16", "revenue": 10200},
+  {"date": "2025-12-23", "revenue": 11800},
+  {"date": "2025-12-30", "revenue": 16400},
+  {"date": "2026-01-06", "revenue": 13200},
+  {"date": "2026-01-13", "revenue": 14100},
+  {"date": "2026-01-20", "revenue": 15600},
+  {"date": "2026-01-27", "revenue": 14900},
+  {"date": "2026-02-03", "revenue": 16700},
+  {"date": "2026-02-10", "revenue": 18200},
+  {"date": "2026-02-17", "revenue": 17600},
+  {"date": "2026-02-24", "revenue": 19100},
+  {"date": "2026-03-03", "revenue": 20500},
+  {"date": "2026-03-10", "revenue": 21800}
+],
+
+"ordersTrend": [
+  {"date": "2025-12-16", "orders": 148},
+  {"date": "2025-12-23", "orders": 172},
+  {"date": "2025-12-30", "orders": 236},
+  {"date": "2026-01-06", "orders": 189},
+  {"date": "2026-01-13", "orders": 198},
+  {"date": "2026-01-20", "orders": 214},
+  {"date": "2026-01-27", "orders": 206},
+  {"date": "2026-02-03", "orders": 228},
+  {"date": "2026-02-10", "orders": 246},
+  {"date": "2026-02-17", "orders": 239},
+  {"date": "2026-02-24", "orders": 258},
+  {"date": "2026-03-03", "orders": 274},
+  {"date": "2026-03-10", "orders": 289}
+],
+
+"conversionRateTrend": [
+  {"date": "2025-12-16", "conversionRate": 2.8},
+  {"date": "2025-12-23", "conversionRate": 3.0},
+  {"date": "2025-12-30", "conversionRate": 3.6},
+  {"date": "2026-01-06", "conversionRate": 3.1},
+  {"date": "2026-01-13", "conversionRate": 3.2},
+  {"date": "2026-01-20", "conversionRate": 3.4},
+  {"date": "2026-01-27", "conversionRate": 3.3},
+  {"date": "2026-02-03", "conversionRate": 3.5},
+  {"date": "2026-02-10", "conversionRate": 3.7},
+  {"date": "2026-02-17", "conversionRate": 3.6},
+  {"date": "2026-02-24", "conversionRate": 3.8},
+  {"date": "2026-03-03", "conversionRate": 4.0},
+  {"date": "2026-03-10", "conversionRate": 4.1}
+],
+
+"trafficSources": [
+  {"source": "Organic Search", "visits": 54200, "revenue": 438000},
+  {"source": "Paid Search", "visits": 41800, "revenue": 351000},
+  {"source": "Social", "visits": 36700, "revenue": 298000},
+  {"source": "Email", "visits": 18200, "revenue": 211000},
+  {"source": "Direct", "visits": 27400, "revenue": 249000}
+],
+
+"topProducts": [
+  {"product": "Canvas Weekender Bag", "units": 3840, "revenue": 576000},
+  {"product": "Minimal Leather Wallet", "units": 4680, "revenue": 421000},
+  {"product": "Classic White Tee", "units": 6120, "revenue": 367000},
+  {"product": "Linen Summer Shirt", "units": 2980, "revenue": 358000},
+  {"product": "Travel Organizer Pouch", "units": 3410, "revenue": 239000}
+],
+
+"kpis": {
+  "totalRevenue": 1349200,
+  "totalOrders": 17489,
+  "averageOrderValue": 77.14,
+  "conversionRate": 3.5,
+  "activeCustomers": 12840
+},
     "12m": {}
   }
 }
